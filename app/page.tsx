@@ -182,7 +182,7 @@ function Header() {
       <div>
         <h1 className="text-[34px] leading-[1.05] font-bold text-zinc-900">Good morning,</h1>
         <div className="mt-1 text-[34px] leading-[1.05] font-extrabold text-zinc-900 flex items-center gap-2">
-          Heidi
+          Sally
           <span className="inline-grid h-8 w-8 place-items-center rounded-full bg-[#e8f6ef]">
             <CupIcon fill="#0b3f2e" />
           </span>
